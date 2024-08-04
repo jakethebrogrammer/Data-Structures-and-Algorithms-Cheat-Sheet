@@ -50,8 +50,6 @@ This list is meant to be both a quick guide and deep dive into what your primary
   - Queues are a **first in, first out** (FIFO) data structure.
   - Made with a linked list that only removes from head and adds to tail.
 
-![image](https://github.com/user-attachments/assets/6d120378-87bb-426c-b7cf-00b77164fe7c)
-
 
 ### <a id="hash"></a> Hash Table or Hash Map
 #### Definition
@@ -66,8 +64,6 @@ This list is meant to be both a quick guide and deep dive into what your primary
   - All hash functions have this problem.
   - This is often accommodated for by having the hash tables be very large.
 - Hashes are important for associative arrays and database indexing.
-
-![image](https://github.com/user-attachments/assets/b3ff9dc9-794a-408a-a2ac-c01077d04132)
 
 
 ### <a id="binary-tree"></a> Binary Tree
