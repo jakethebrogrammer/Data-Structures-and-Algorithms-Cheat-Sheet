@@ -81,9 +81,6 @@ This list is meant to be both a quick guide and deep dive into what your primary
   - Right child has a key greater than its parent node.
   - There can be no duplicate node.
   - Because of the above it is more likely to be used as a data structure than a binary tree.
- 
-![image](https://github.com/user-attachments/assets/a4483635-3aa1-4037-9ce5-41e9e7cc6afc)
-
 
 
 
